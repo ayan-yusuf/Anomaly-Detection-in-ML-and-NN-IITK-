@@ -102,3 +102,9 @@ The project uses the CICIDS2017 dataset, a comprehensive dataset containing netw
 ## Results
 
 The performance of the models is evaluated using metrics such as Precision, Recall, F1-Score, and ROC-AUC. Visualization tools are provided to help interpret the results.
+
+## Certification
+### Link: https://drive.google.com/file/d/1AjuCPdJ0h783YdzFhsf15YjXaiUEoedc/view
+Certificate Granted by Indian Institute of Technology
+
+
