@@ -105,6 +105,6 @@ The performance of the models is evaluated using metrics such as Precision, Reca
 
 ## Certification
 ### Link: https://drive.google.com/file/d/1AjuCPdJ0h783YdzFhsf15YjXaiUEoedc/view
-Certificate Granted by Indian Institute of Technology
+Certificate Granted by Indian Institute of Technology, Kanpur
 
 
